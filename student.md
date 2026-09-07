@@ -63,6 +63,7 @@
 - Kotlin
 - ML
 - Mojo
+- Nim
 - Objective-C
 - OCaml
 - Perl
