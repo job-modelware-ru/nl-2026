@@ -66,6 +66,7 @@
 - Nim
 - Objective-C
 - OCaml
+- ODIN
 - Perl
 - Prolog
 - Ruby
