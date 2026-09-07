@@ -62,6 +62,7 @@
 - Lua
 - Kotlin
 - ML
+- Mojo
 - Objective-C
 - OCaml
 - Perl
@@ -71,6 +72,7 @@
 - Scala
 - Scheme
 - Swift
+- Zig
 
 ## Темы, которые следует раскрыть в презентациях
 
