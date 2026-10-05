@@ -15,3 +15,4 @@ puts counter1.call
 double = Proc.new { |x| x * 2 }
 
 puts double.call(5)
+

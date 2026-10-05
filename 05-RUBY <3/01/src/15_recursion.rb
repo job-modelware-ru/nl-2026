@@ -5,3 +5,4 @@ def factorial(n)
 end
 
 puts factorial(5)
+
