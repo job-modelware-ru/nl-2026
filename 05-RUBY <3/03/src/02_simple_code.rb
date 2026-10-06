@@ -1,7 +1,5 @@
-numbers = [1, 2, 3, 4, 5]
+def positive(value)
+  value >= 0 ? [:ok, value] : [:error, "negative"]
+end
 
-result = numbers
-  .select(&:even?)
-  .map { |n| n * n }
-
-p result
+puts positive(12).inspect
