@@ -1,0 +1,5 @@
+INFO /health 200 12
+WARN /login 401 34
+INFO /products 200 87
+BROKEN /missing-data
+ERROR /orders 500 143
